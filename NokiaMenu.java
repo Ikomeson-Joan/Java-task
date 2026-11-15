@@ -10,7 +10,7 @@ public class NokiaMenu{
 List of menu functions
 
 Press 1 for Phone book
-Press 2 for Message menu
+Press 2 for Message
 Press 3 for Chat
 Press 4 for Call register
 Press 5 for Tones
